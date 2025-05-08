@@ -1,6 +1,8 @@
 # pekora sniper
 fastest lim sniper possible for pekora
 
+# it came to my attention people r skidding my work please stop and credit me
+
 ![image](https://github.com/user-attachments/assets/5ef48219-4384-4670-82e1-f4f24ab12115)
 
 dropping ts again ✌✌
