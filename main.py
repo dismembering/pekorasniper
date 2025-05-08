@@ -1,3 +1,6 @@
+# made by indatfield (754910614614179905) on discord please stop skidding my work without credit
+# this took me 15 minutes to write please give credit wheres its due i spent alot of time and effort on this
+
 import discord
 import aiohttp
 import re
